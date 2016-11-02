@@ -23,7 +23,7 @@ Or install it yourself as:
 ## Usage
 To return a list of all Divvy Stations
 ```ruby
-ChicagoDivvyStations::Station.all
+p ChicagoDivvyStations::Station.all
 ```
 
 ## Development
